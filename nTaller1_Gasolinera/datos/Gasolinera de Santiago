@@ -1,0 +1,13 @@
+tipo:diesel:15:20000.0
+tipo:xtra:30:3000.0
+tipo:corriente:23:100.0
+tipo:plus:50:23444.0
+surtidor:santiago:diesel:0.0:xtra:0.0:corriente:0.0:plus:0.0
+surtidor:yolanda:diesel:0.0:xtra:0.0:corriente:0.0:plus:0.0
+surtidor:david:diesel:0.0:xtra:0.0:corriente:0.0:plus:0.0
+surtidor:santiago:diesel:0.0:xtra:0.0:corriente:0.0:plus:0.0
+empleado:pedro:0
+empleado:camila:0
+empleado:santiago:0
+empleado:yolanda:0
+empleado:david:0
